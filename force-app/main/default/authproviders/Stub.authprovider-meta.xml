@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://resilient-panda-lwjc0c-dev-ed.my.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9VeAQy5y3BQUH..jekM_g6ZHW6mBoVPV2QwMdLfyOVmGePYN2pmb2Gh5oMkojO_duue9Xtb68QJYqR22x</consumerKey>
+    <consumerSecret>+zV183OMyr97eYfWmjllP9MARYlIPq6kmqGxYgy0iCXPEYExIdJRjZMHm/ZTm6cBVY4CJrKOqnZfXO5YPuploXBBGPdiC2rX</consumerSecret>
+    <defaultScopes>refresh_token full</defaultScopes>
+    <friendlyName>Stub</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <tokenUrl>https://resilient-panda-lwjc0c-dev-ed.my.salesforce.com/services/oauth2/token</tokenUrl>
+</AuthProvider>
