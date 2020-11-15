@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ExceptionHandler</members>
+        <members>ExceptionHandler</members>
+        <members>ExceptionHandlerTest</members>
+        <members>ExceptionHandlerTest</members>
+        <members>StubRestResource</members>
+        <members>StubRestResource</members>
+        <members>StubRestResourceTest</members>
+        <members>StubRestResourceTest</members>
+        <members>SYS_HTTPService</members>
+        <members>SYS_HTTPService</members>
+        <members>SYS_HTTPServiceTest</members>
+        <members>SYS_HTTPServiceTest</members>
+        <members>TestDataUtility</members>
+        <members>TestDataUtility</members>
+        <members>TransactionCalloutHTTPMock</members>
+        <members>TransactionCalloutHTTPMock</members>
+        <members>TransactionItemsHandler</members>
+        <members>TransactionItemsHandler</members>
+        <members>TransactionItemsHandlerTest</members>
+        <members>TransactionItemsHandlerTest</members>
+        <members>TransactionService</members>
+        <members>TransactionService</members>
+        <members>TransactionServiceTest</members>
+        <members>TransactionServiceTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Exception_Log__c</members>
+        <members>Stub__c</members>
+        <members>TransactionItem__c</members>
+        <members>Transaction__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Exception_Log__c</members>
+        <members>Stub__c</members>
+        <members>TransactionItem__c</members>
+        <members>Transaction__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Stub__c-Stub Layout</members>
+        <members>TransactionItem__c-TransactionItem Layout</members>
+        <members>Transaction__c-Transaction Layout</members>
+        <members>Exception_Log__c-Exception Log Layout</members>
+        <name>Layout</name>
+    </types>
+    
+    <types>
+        <members>Stub</members>
+        <name>AuthProvider</name>
+    </types>
+    <types>
+        <members>TransactionService</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
+        <members>TransactionItemsTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Stub</members>
+        <name>ConnectedApp</name>
+    </types>
+    <version>50.0</version>
+</Package>
